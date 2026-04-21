@@ -1,4 +1,4 @@
-# Leveraging-of-AI-To-Transform-Medicare-Claim-Process-in-Healthcare
+# Leveraging-AI/ML-To-Transform-Medicare-Claim-Process-in-Healthcare
 The objective of these presentation slides is to highlight some key areas in which product decisions are required, as well as crucial elements when considering or attempting to adopt Artificial Intelligence (AI) strategies in an organization. 
 It is intended to assist your  decisioning process in establishing a foundation for AI business strategies and applications or digital transformation.
 AI is very broad and there are lots of information out there. It can be overwhelming trying to figure out what, where and how to start. Hopefully, some of the information presented herein can expand your AI knowledge and guide your decisions.
